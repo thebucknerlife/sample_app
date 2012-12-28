@@ -1,0 +1,1 @@
+This is the sample application for [*Ruby on Rails Turorial: Learn Ruby on Rails by Example*](http://railstutorial.org/) by Michael Hartl
